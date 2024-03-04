@@ -1,3 +1,14 @@
+
+https://github.com/VinamraVij/react-native-audio-wave-recording/assets/87716200/ac0313b8-aafe-41ad-a2cd-9bcfe96e6ef5
+# DEMO
+
+
+
+https://github.com/VinamraVij/react-native-audio-wave-recording/assets/87716200/0b533f61-563f-496d-884e-1f6a240f30a8
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
