@@ -1,5 +1,3 @@
-
-https://github.com/VinamraVij/react-native-audio-wave-recording/assets/87716200/ac0313b8-aafe-41ad-a2cd-9bcfe96e6ef5
 # DEMO
 
 
